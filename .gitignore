@@ -8,3 +8,4 @@ dist/
 *.pyc
 coverage/
 .cache/
+tmp/
